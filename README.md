@@ -4,5 +4,5 @@ in a world where you can automate everthing, automate typing faster becuase that
 
 - selenium
 - pynput
-- ```bash
-pip install selenium pynput
+- ```bash pip install selenium pynput
+
