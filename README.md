@@ -1,6 +1,6 @@
 # m0nkey-type-faster
 
-in a world where you can automate everthing, automate typing faster becuase that is very helpful to develop your typing skills (the part where you type a script to type faster) 
+in a world where you can automate everything, automate typing faster because that is very helpful to develop your typing skills (the part where you type a script to type faster) 
 
 ## Requirements
 
@@ -19,7 +19,7 @@ pip install selenium pynput
 ## Requirements
 First, replace the value of chrome_driver_path in the monkey_type_bot function call with the path to your ChromeDriver.
 
-Then, simply run the Python script (why are you reading this if you dont know how run a python script:
+Then, simply run the Python script (why are you even reading this repo if you do not know how to run a python script lmaoo):
 ```bash
 python fast.py
 ```
